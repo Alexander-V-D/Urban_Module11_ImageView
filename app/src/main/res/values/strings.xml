@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Urban_Module11_ImageView</string>
+    <string name="goodbye">Спасибо за просмотр! До свидания</string>
+    <string name="exit">Выйти</string>
+    <string name="next_image">Следующее фото</string>
+    <string name="welcome">Вас приветствует альбом фотографий!</string>
+    <string name="start">Начать просмотр</string>
+</resources>
